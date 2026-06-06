@@ -1,0 +1,27 @@
+{
+  "sourcePdf": "C:\\Users\\samar\\Downloads\\10. Sensory systems 2.pdf",
+  "pages": 25,
+  "extractedLineCount": 705,
+  "answerMarkerCount": 98,
+  "notes": [
+    {
+      "type": "removed-heading",
+      "sourceIndex": 1,
+      "page": 1,
+      "text": "SENSORY SYSTEMS OF THE BODY"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 30,
+      "page": 8,
+      "text": "The sound-conducting part of the middle ear - the hammer, anvil and stirrup transmit sound waves directly to the eardrum"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 60,
+      "page": 15,
+      "text": "The sound–conducting part of the middle ear - the hammer, anvil and stirrup transmit sound waves directly to the eardrum"
+    }
+  ],
+  "questionCount": 98
+}
