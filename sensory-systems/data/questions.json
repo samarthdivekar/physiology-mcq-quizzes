@@ -1,0 +1,1479 @@
+[
+  {
+    "id": 1,
+    "sourceIndex": 1,
+    "page": 1,
+    "question": "The sensory system consists of the following links:",
+    "options": [
+      "receptor cells, interneurons, pyramidal neurons",
+      "receptor neurons, extrapyramidal conducting pathways, cerebellum",
+      "interneurons, ganglia of the ANS, subcortical nuclei",
+      "receptor cells, conducting pathways, cortical projection zones of the brain",
+      "receptor neurons, hypothalamus, cortical motor zones"
+    ],
+    "answerIndex": 3,
+    "answer": "receptor cells, conducting pathways, cortical projection zones of the brain"
+  },
+  {
+    "id": 2,
+    "sourceIndex": 2,
+    "page": 1,
+    "question": "In the optical system of the eye, the greatest refractive power is possessed by:",
+    "options": [
+      "the lens",
+      "the cornea",
+      "the vitreous body",
+      "the fluid of the anterior chamber",
+      "the fluid of the posterior chamber"
+    ],
+    "answerIndex": 1,
+    "answer": "the cornea"
+  },
+  {
+    "id": 3,
+    "sourceIndex": 3,
+    "page": 1,
+    "question": "Focusing the image on the retina of the eye, which provides a clear vision of objects removed at different distances, is designated as:",
+    "options": [
+      "adaptation of photoreceptors",
+      "accommodation of the lens",
+      "sensitization of conductive fibers",
+      "mobility of the sensory visual system",
+      "coding of visual information"
+    ],
+    "answerIndex": 1,
+    "answer": "accommodation of the lens"
+  },
+  {
+    "id": 4,
+    "sourceIndex": 4,
+    "page": 1,
+    "question": "Visual acuity is characterized as:",
+    "options": [
+      "the ability of the lens to change its curvature",
+      "the ability to night vision",
+      "the ability to distinguish two points separately with a minimum distance between",
+      "them",
+      "the ability of the retina to convert light energy into excitation",
+      "a space that can be seen with a fixed eye"
+    ],
+    "answerIndex": 2,
+    "answer": "the ability to distinguish two points separately with a minimum distance between"
+  },
+  {
+    "id": 5,
+    "sourceIndex": 5,
+    "page": 2,
+    "question": "The cortical projection zone of sensory systems is determined using the method:",
+    "options": [
+      "microelectrode registration",
+      "of microionophoresis",
+      "registration of evoked potentials",
+      "sphygmometry",
+      "estesiometry"
+    ],
+    "answerIndex": 2,
+    "answer": "registration of evoked potentials"
+  },
+  {
+    "id": 6,
+    "sourceIndex": 6,
+    "page": 2,
+    "question": "The excitation of the photoreceptors of the macula of the retina provides:",
+    "options": [
+      "color vision",
+      "black and white vision",
+      "twilight vision field of vision",
+      "increase field of vision",
+      "decrease field of vision"
+    ],
+    "answerIndex": 0,
+    "answer": "color vision"
+  },
+  {
+    "id": 7,
+    "sourceIndex": 7,
+    "page": 2,
+    "question": "An adequate stimulus for photoreceptors is:",
+    "options": [
+      "stretching of the muscle structures of the eyeball",
+      "a change in the curvature of the lens",
+      "an increase in the temperature of the vitreous body",
+      "an expansion of the pupil",
+      "an electromagnetic wave of a certain length"
+    ],
+    "answerIndex": 4,
+    "answer": "an electromagnetic wave of a certain length"
+  },
+  {
+    "id": 8,
+    "sourceIndex": 8,
+    "page": 2,
+    "question": "An adequate stimulus for the hair cells of the vestibular sensory system are:",
+    "options": [
+      "vibrations of the tympanic membrane",
+      "vibrations of the membrane of the cortical organ",
+      "acceleration or deceleration of rotational motion",
+      "electromagnetic waves",
+      "muscle stretching"
+    ],
+    "answerIndex": 2,
+    "answer": "acceleration or deceleration of rotational motion"
+  },
+  {
+    "id": 9,
+    "sourceIndex": 9,
+    "page": 3,
+    "question": "Adequate irritation for proprioreceptorsare:",
+    "options": [
+      "acceleration or deceleration of rotational movement",
+      "stretching of striated muscles",
+      "increase in body temperature",
+      "decrease in blood pressure",
+      "change in blood glucose levels"
+    ],
+    "answerIndex": 1,
+    "answer": "stretching of striated muscles"
+  },
+  {
+    "id": 10,
+    "sourceIndex": 10,
+    "page": 3,
+    "question": "An adequate stimulus for the receptor cells of the cortical organ are:",
+    "options": [
+      "sound waves with a frequency of 20 to 20,000 hz",
+      "sound waves with a frequency of less than 20 hz",
+      "sound waves with a frequency of more than 20,000 hz",
+      "acceleration or deceleration of rotational movements",
+      "stretching of striated muscles"
+    ],
+    "answerIndex": 0,
+    "answer": "sound waves with a frequency of 20 to 20,000 hz"
+  },
+  {
+    "id": 11,
+    "sourceIndex": 11,
+    "page": 3,
+    "question": "Parasympathetic innervation of the eyeball provides:",
+    "options": [
+      "reduction of the ciliary muscle",
+      "tension of the zinc ligament",
+      "extension of the badge",
+      "decrease in the outflow of intraocular fluid",
+      "increase in the convexity of the lens"
+    ],
+    "answerIndex": 0,
+    "answer": "reduction of the ciliary muscle"
+  },
+  {
+    "id": 12,
+    "sourceIndex": 12,
+    "page": 3,
+    "question": "The main function of the base of the cochlea is:",
+    "options": [
+      "ensuring balance",
+      "maintaining muscle tone",
+      "perception of low-frequency sound waves",
+      "perception of high-frequency sound waves",
+      "perception of stretching of the muscles straining the eardrum"
+    ],
+    "answerIndex": 3,
+    "answer": "perception of high-frequency sound waves"
+  },
+  {
+    "id": 13,
+    "sourceIndex": 13,
+    "page": 4,
+    "question": "The main function of the human associative cortex is:",
+    "options": [
+      "the formation of an emotional sensation",
+      "the provision of a conditioned reflex reaction in response to a conditioned stimulus",
+      "the integration of information from various sensory areas of the cerebral cortex",
+      "the regulation of autonomic functions",
+      "the regulation of physiological activity of the cerebellum"
+    ],
+    "answerIndex": 2,
+    "answer": "the integration of information from various sensory areas of the cerebral cortex"
+  },
+  {
+    "id": 14,
+    "sourceIndex": 14,
+    "page": 4,
+    "question": "An adequate stimulus for the hair cells of the vestibular analyzer is:",
+    "options": [
+      "stretching of smooth muscles",
+      "head tilts",
+      "sound waves with a frequency of 200 Hz",
+      "electromagnetic waves",
+      "lowering of the lower jaw"
+    ],
+    "answerIndex": 1,
+    "answer": "head tilts"
+  },
+  {
+    "id": 15,
+    "sourceIndex": 15,
+    "page": 4,
+    "question": "An adequate irritant of the taste buds are:",
+    "options": [
+      "temperature changes of the food lump",
+      "chemicals in the composition of food",
+      "soft components of food,",
+      "hard components of food",
+      "all right"
+    ],
+    "answerIndex": 1,
+    "answer": "chemicals in the composition of food"
+  },
+  {
+    "id": 16,
+    "sourceIndex": 16,
+    "page": 4,
+    "question": "Senile presbyopia is formed due to:",
+    "options": [
+      "violation of the function of cones",
+      "elongation of the axis of the eyeball",
+      "violation of the elasticity of the lens",
+      "reduction of the axis of the eyeball",
+      "increase in intraocular pressure"
+    ],
+    "answerIndex": 2,
+    "answer": "violation of the elasticity of the lens"
+  },
+  {
+    "id": 17,
+    "sourceIndex": 17,
+    "page": 4,
+    "question": "With hypermetropia in humans, the image focuses:",
+    "options": [
+      "behind the retina",
+      "in front of the retina",
+      "in the blind spot",
+      "area in the macular",
+      "area in the central fossa area"
+    ],
+    "answerIndex": 0,
+    "answer": "behind the retina"
+  },
+  {
+    "id": 18,
+    "sourceIndex": 18,
+    "page": 5,
+    "question": "Increase the clarity and contrast of visual perception of cells:",
+    "options": [
+      "pigment layer",
+      "ganglion",
+      "horizontal",
+      "amacrine",
+      "bipolar cells"
+    ],
+    "answerIndex": 0,
+    "answer": "pigment layer"
+  },
+  {
+    "id": 19,
+    "sourceIndex": 19,
+    "page": 5,
+    "question": "The sensitivity of sensory systems is determined:",
+    "options": [
+      "in the process of measuring the threshold of sensation",
+      "according to the minimum time required for the formation of a sensation",
+      "according to the minimum time for the formation of a response",
+      "according to the number of excited neurons in the projection area",
+      "according to the speed of propagation of excitation from receptors into the cerebral",
+      "cortex"
+    ],
+    "answerIndex": 0,
+    "answer": "in the process of measuring the threshold of sensation"
+  },
+  {
+    "id": 20,
+    "sourceIndex": 20,
+    "page": 5,
+    "question": "The number of active taste buds in a person after a meal:",
+    "options": [
+      "first decreases, during the meal – increases",
+      "increases",
+      "decreases",
+      "the number of receptors increases decreases does not change",
+      "after eating the taste buds atrophy"
+    ],
+    "answerIndex": 2,
+    "answer": "decreases"
+  },
+  {
+    "id": 21,
+    "sourceIndex": 21,
+    "page": 5,
+    "question": "Substances that weaken the feeling of pain include:",
+    "options": [
+      "histamine",
+      "heparin",
+      "endorphins",
+      "angiotensin II",
+      "fibrinogen"
+    ],
+    "answerIndex": 2,
+    "answer": "endorphins"
+  },
+  {
+    "id": 22,
+    "sourceIndex": 22,
+    "page": 6,
+    "question": "When projecting an external image onto the receptors of the central fossa of the retina:",
+    "options": [
+      "chromatic visionis formed,",
+      "black-and-white is formed",
+      "vision is formed,",
+      "the field of vision increases",
+      "a blurry imageis formed,",
+      "the image is not formed"
+    ],
+    "answerIndex": 0,
+    "answer": "chromatic visionis formed,"
+  },
+  {
+    "id": 23,
+    "sourceIndex": 23,
+    "page": 6,
+    "question": "In the processing of visual signals, sticks provide:",
+    "options": [
+      "perception of color stimuli",
+      "perception of black-and-white stimuli",
+      "propagation of excitation along the horizontal layers of the retina",
+      "reflection and scattering of light",
+      "transmission of excitation to ganglion cells"
+    ],
+    "answerIndex": 1,
+    "answer": "perception of black-and-white stimuli"
+  },
+  {
+    "id": 24,
+    "sourceIndex": 24,
+    "page": 6,
+    "question": "In the processing of visual signals , cones provide:",
+    "options": [
+      "perception of color stimuli",
+      "perception of black-and-white stimuli",
+      "increase in the field of vision",
+      "propagation of excitation along the horizontal layers of the retina",
+      "transmit excitation to amacrine cells"
+    ],
+    "answerIndex": 0,
+    "answer": "perception of color stimuli"
+  },
+  {
+    "id": 25,
+    "sourceIndex": 25,
+    "page": 7,
+    "question": "In the processing of visual signals, bipolar retinal cells:",
+    "options": [
+      "receive excitations from ganglion cells",
+      "receive excitations from photoreceptors",
+      "form the optic nerve",
+      "contribute to the reflection and scattering of light",
+      "inhibit the conversion of electromagnetic waves into the excitation process"
+    ],
+    "answerIndex": 1,
+    "answer": "receive excitations from photoreceptors"
+  },
+  {
+    "id": 26,
+    "sourceIndex": 26,
+    "page": 7,
+    "question": "In the processing of visual signals, ganglion cells:",
+    "options": [
+      "form chromatic vision",
+      "they form the optic nerve",
+      "form black-and-white vision",
+      "form binocular vision",
+      "transmit visual excitation to the projection zones of the cerebral cortex"
+    ],
+    "answerIndex": 1,
+    "answer": "they form the optic nerve"
+  },
+  {
+    "id": 27,
+    "sourceIndex": 27,
+    "page": 7,
+    "question": "The sensitivity of sensory systems is determined using the method:",
+    "options": [
+      "electroencephalography",
+      "sphygmography",
+      "of evoked potentials",
+      "measurement of the threshold of sensation",
+      "measurement of visual fields"
+    ],
+    "answerIndex": 3,
+    "answer": "measurement of the threshold of sensation"
+  },
+  {
+    "id": 28,
+    "sourceIndex": 28,
+    "page": 7,
+    "question": "Taste sensitivity is determined using the method:",
+    "options": [
+      "estesiometry",
+      "gustometry",
+      "rheovasography",
+      "gastroscopy",
+      "mastication"
+    ],
+    "answerIndex": 1,
+    "answer": "gustometry"
+  },
+  {
+    "id": 29,
+    "sourceIndex": 29,
+    "page": 7,
+    "question": "Tactile sensitivity is determined using the method:",
+    "options": [
+      "gastroscopy",
+      "gustometry",
+      "masticatiography",
+      "estesiometry",
+      "gnathodinamometry"
+    ],
+    "answerIndex": 3,
+    "answer": "estesiometry"
+  },
+  {
+    "id": 30,
+    "sourceIndex": 30,
+    "page": 8,
+    "question": "The sound-conducting part of the middle ear - the hammer, anvil and stirrup",
+    "options": [
+      "transmit sound waves directly",
+      "to the eardrum",
+      "the muscle that pulls the eardrum",
+      "the cells of the cortical organ",
+      "the bipolar neurons of the spiral ganglion of the cochlea",
+      "the oval window"
+    ],
+    "answerIndex": 4,
+    "answer": "the bipolar neurons of the spiral ganglion of the cochlea"
+  },
+  {
+    "id": 31,
+    "sourceIndex": 31,
+    "page": 8,
+    "question": "The function of maintaining pressure in the tympanic cavity equal to atmospheric pressure is performed by:",
+    "options": [
+      "helicotrema",
+      "oval window",
+      "round window",
+      "muscle fixing the stapes",
+      "of the Eustachian tube"
+    ],
+    "answerIndex": 4,
+    "answer": "of the Eustachian tube"
+  },
+  {
+    "id": 32,
+    "sourceIndex": 32,
+    "page": 8,
+    "question": "Accommodation of the eye is its adaptation to:",
+    "options": [
+      "clear vision of objects at different distances",
+      "bright light",
+      "poor lighting,",
+      "perception of prolonged irritation",
+      "clear vision of differently illuminated objects"
+    ],
+    "answerIndex": 0,
+    "answer": "clear vision of objects at different distances"
+  },
+  {
+    "id": 33,
+    "sourceIndex": 33,
+    "page": 9,
+    "question": "The middle canal of the inner ear of the cochlea is filled with:",
+    "options": [
+      "lymph",
+      "interstitial fluid",
+      "perilymph",
+      "vitreous",
+      "endolymph"
+    ],
+    "answerIndex": 4,
+    "answer": "endolymph"
+  },
+  {
+    "id": 34,
+    "sourceIndex": 34,
+    "page": 9,
+    "question": "The top of the snail perceives:",
+    "options": [
+      "low frequency sounds",
+      "high frequency",
+      "sounds high amplitude",
+      "sound waves low amplitude",
+      "sound waves disequilibrium"
+    ],
+    "answerIndex": 0,
+    "answer": "low frequency sounds"
+  },
+  {
+    "id": 35,
+    "sourceIndex": 35,
+    "page": 9,
+    "question": "For the hair cells of the semicircular channels of the cochlea, adequate stimuli are:",
+    "options": [
+      "sound waves in the range of 2000-5000 hertz",
+      "electromagnetic waves",
+      "change in osmotic pressure of the perilymph",
+      "change in hydrostatic pressure of the cerebrospinal fluid",
+      "acceleration or deceleration of rotational motion in anyplane"
+    ],
+    "answerIndex": 4,
+    "answer": "acceleration or deceleration of rotational motion in anyplane"
+  },
+  {
+    "id": 36,
+    "sourceIndex": 36,
+    "page": 9,
+    "question": "Adaptation to bright light is provided by:",
+    "options": [
+      "high sensitivity of photoreceptors",
+      "inertia of the visual sensory system",
+      "high specificity of photoreceptors",
+      "decreased sensitivity of photoreceptors",
+      "the ability of receptors to convert electromagnetic waves into electrical impulses"
+    ],
+    "answerIndex": 3,
+    "answer": "decreased sensitivity of photoreceptors"
+  },
+  {
+    "id": 37,
+    "sourceIndex": 37,
+    "page": 10,
+    "question": "Activation of parasympathetic innervation of the eyeball leads to:",
+    "options": [
+      "reduction of the ciliary muscle",
+      "relaxation of the zinc ligament",
+      "narrowing of the badge",
+      "to increase the convexity of the lens",
+      "all of the above is true"
+    ],
+    "answerIndex": 4,
+    "answer": "all of the above is true"
+  },
+  {
+    "id": 38,
+    "sourceIndex": 38,
+    "page": 10,
+    "question": "The visual cortex of the left hemisphere receives visual information:",
+    "options": [
+      "only from the left eye",
+      "only from the right eye",
+      "from the lateral part of the retina of the right eye",
+      "from the retina of both eyes",
+      "from the medial part of the retina of the left eye"
+    ],
+    "answerIndex": 3,
+    "answer": "from the retina of both eyes"
+  },
+  {
+    "id": 39,
+    "sourceIndex": 39,
+    "page": 10,
+    "question": "When viewing distant objects, the lens becomes flatter because:",
+    "options": [
+      "when the ciliary muscle contracts, the cinnova ligament relaxes",
+      "when the ciliary muscle relaxes, the cinnova ligament relaxes",
+      "when the ciliary muscle relaxes, the cinnova ligament stretches",
+      "the volume of the anterior chamber of the eye decreases",
+      "parasympathetic innervation of the ciliary muscle is blocked"
+    ],
+    "answerIndex": 0,
+    "answer": "when the ciliary muscle contracts, the cinnova ligament relaxes"
+  },
+  {
+    "id": 40,
+    "sourceIndex": 40,
+    "page": 10,
+    "question": "The field of view is:",
+    "options": [
+      "a space of clear vision into the distance",
+      "a space visible with two eyes",
+      "a space that can be seen with a fixed eye",
+      "a space visible with one eye",
+      "maximum visible space when rotating the eyeballs"
+    ],
+    "answerIndex": 2,
+    "answer": "a space that can be seen with a fixed eye"
+  },
+  {
+    "id": 41,
+    "sourceIndex": 41,
+    "page": 10,
+    "question": "The main mechanisms that ensure accommodation are:",
+    "options": [
+      "improvement of blood supply to the eye",
+      "pupil constriction pupil",
+      "dilation",
+      "change in the curvature of the lens of the eye",
+      "change in the curvature of the cornea"
+    ],
+    "answerIndex": 3,
+    "answer": "change in the curvature of the lens of the eye"
+  },
+  {
+    "id": 42,
+    "sourceIndex": 42,
+    "page": 11,
+    "question": "The maximum field of view is registered for:",
+    "options": [
+      "blue and yellow",
+      "colors of the sea wave",
+      "color of red",
+      "colorless objects",
+      "of green color"
+    ],
+    "answerIndex": 3,
+    "answer": "colorless objects"
+  },
+  {
+    "id": 43,
+    "sourceIndex": 43,
+    "page": 11,
+    "question": "Myopia occurs when:",
+    "options": [
+      "focusing the image on the retina",
+      "focusing of the image in front of the retina",
+      "focusing of the image behind the retina",
+      "violation of the mechanism of accommodation, flattening of the lens",
+      "adaptations to bright light"
+    ],
+    "answerIndex": 3,
+    "answer": "violation of the mechanism of accommodation, flattening of the lens"
+  },
+  {
+    "id": 44,
+    "sourceIndex": 44,
+    "page": 11,
+    "question": "Hypermetropia occurs when:",
+    "options": [
+      "an increase in the refractive power of the lens",
+      "an increase in the refractive power of the cornea",
+      "shortening of the longitudinal axis of the eyeball",
+      "opacity of the vitreous",
+      "hemorrhage into the retina"
+    ],
+    "answerIndex": 2,
+    "answer": "shortening of the longitudinal axis of the eyeball"
+  },
+  {
+    "id": 45,
+    "sourceIndex": 45,
+    "page": 11,
+    "question": "The function of receptors in the visual sensory system is performed by:",
+    "options": [
+      "pigment epithelial cells,",
+      "rods and cones",
+      "bipolar cells",
+      "ganglion cells",
+      "amacrine cells"
+    ],
+    "answerIndex": 1,
+    "answer": "rods and cones"
+  },
+  {
+    "id": 46,
+    "sourceIndex": 46,
+    "page": 12,
+    "question": "Refraction of the eye is:",
+    "options": [
+      "A change in the convexity of the lens",
+      "refractive power of the vitreous body",
+      "the process of refraction of light rays in the optical system of the eye",
+      "adaptation to distant vision",
+      "refractive power of the cornea"
+    ],
+    "answerIndex": 2,
+    "answer": "the process of refraction of light rays in the optical system of the eye"
+  },
+  {
+    "id": 47,
+    "sourceIndex": 47,
+    "page": 12,
+    "question": "Clear vision is provided by:",
+    "options": [
+      "retinal pigment layer",
+      "by getting the image into the area of the macular spot of the retina",
+      "accommodation of the lens",
+      "the reaction of the pupil",
+      "is all right"
+    ],
+    "answerIndex": 4,
+    "answer": "is all right"
+  },
+  {
+    "id": 48,
+    "sourceIndex": 48,
+    "page": 12,
+    "question": "With a decrease in illumination:",
+    "options": [
+      "the pupil dilates",
+      "the pupil narrows",
+      "the lens flattens",
+      "the achromatic field of vision decreases",
+      "the intraocular pressure increases"
+    ],
+    "answerIndex": 0,
+    "answer": "the pupil dilates"
+  },
+  {
+    "id": 49,
+    "sourceIndex": 49,
+    "page": 12,
+    "question": "Adaptation of receptors is:",
+    "options": [
+      "the ability to determine a special type of stimulus",
+      "the change in their excitability with prolonged action of the stimulus",
+      "the ability to transform the energy of the stimulus into nerve impulses",
+      "the ability to respond to stimuli of minimal intensity",
+      "the ability to primary analysis"
+    ],
+    "answerIndex": 1,
+    "answer": "the change in their excitability with prolonged action of the stimulus"
+  },
+  {
+    "id": 50,
+    "sourceIndex": 50,
+    "page": 13,
+    "question": "Adaptation to darkness is provided by the following properties of receptors:",
+    "options": [
+      "high sensitivity",
+      "ability to encode visual information",
+      "high specificity",
+      "increased sensitivity of receptors",
+      "decreased sensitivity of receptors"
+    ],
+    "answerIndex": 3,
+    "answer": "increased sensitivity of receptors"
+  },
+  {
+    "id": 51,
+    "sourceIndex": 51,
+    "page": 13,
+    "question": "Neurons are most responsible for the formation of visual sensations:",
+    "options": [
+      "the parietal cortex",
+      "of the temporal cortex",
+      "of the frontal cortex",
+      "of the occipital cortex",
+      "postcentral gyrus"
+    ],
+    "answerIndex": 3,
+    "answer": "of the occipital cortex"
+  },
+  {
+    "id": 52,
+    "sourceIndex": 52,
+    "page": 13,
+    "question": "In the optical system of the eye, the properties of changing the refractive power are:",
+    "options": [
+      "the lens",
+      "the cornea",
+      "the vitreous body",
+      "the fluid of the anterior chamber",
+      "the fluid of the posterior chamber"
+    ],
+    "answerIndex": 0,
+    "answer": "the lens"
+  },
+  {
+    "id": 53,
+    "sourceIndex": 53,
+    "page": 13,
+    "question": "Senile farsightedness is:",
+    "options": [
+      "myopia",
+      "hypermetropia",
+      "presbyopia",
+      "color blindness",
+      "astigmatism"
+    ],
+    "answerIndex": 2,
+    "answer": "presbyopia"
+  },
+  {
+    "id": 54,
+    "sourceIndex": 54,
+    "page": 14,
+    "question": "The most obvious cause of myopia:",
+    "options": [
+      "insufficient force of accommodation",
+      "too long longitudinal axis of the eye",
+      "too short longitudinal axis of the eye",
+      "change in the radius of curvature of the cornea",
+      "violation of photoreceptor adaptation"
+    ],
+    "answerIndex": 1,
+    "answer": "too long longitudinal axis of the eye"
+  },
+  {
+    "id": 55,
+    "sourceIndex": 55,
+    "page": 14,
+    "question": "Pupil dilation is observed when:",
+    "options": [
+      "activation of sympathetic centers innervating pupil muscles",
+      "contraction of the radial muscles of the pupil",
+      "with a strong pain effect",
+      "with hypoxia",
+      "everything is correct"
+    ],
+    "answerIndex": 4,
+    "answer": "everything is correct"
+  },
+  {
+    "id": 56,
+    "sourceIndex": 56,
+    "page": 14,
+    "question": "The set of central and peripheral formations of the nervous system, connected by direct and inverse connections, perceiving changes in the environment of the organism, was named:",
+    "options": [
+      "physiological system",
+      "sensory system",
+      "sensory complex",
+      "functional system",
+      "functional module"
+    ],
+    "answerIndex": 1,
+    "answer": "sensory system"
+  },
+  {
+    "id": 57,
+    "sourceIndex": 57,
+    "page": 15,
+    "question": "The excitability (sensitivity) of the receptor is determined by:",
+    "options": [
+      "the threshold strength of irritation",
+      "the rate of adaptation",
+      "of the functional organization of the receptor",
+      "the frequency of irritation",
+      "the amplitude of the response"
+    ],
+    "answerIndex": 0,
+    "answer": "the threshold strength of irritation"
+  },
+  {
+    "id": 58,
+    "sourceIndex": 58,
+    "page": 15,
+    "question": "Gustometry consists in determining the thresholds:",
+    "options": [
+      "pain sensitivity",
+      "taste sensitivity",
+      "light sensitivity",
+      "spatial sensitivity",
+      "olfactory sensitivity"
+    ],
+    "answerIndex": 1,
+    "answer": "taste sensitivity"
+  },
+  {
+    "id": 59,
+    "sourceIndex": 59,
+    "page": 15,
+    "question": "Algesimetry consists in determining the thresholds:",
+    "options": [
+      "pain sensitivity",
+      "taste sensitivity",
+      "light sensitivity",
+      "spatial sensitivity",
+      "olfactory sensitivity"
+    ],
+    "answerIndex": 0,
+    "answer": "pain sensitivity"
+  },
+  {
+    "id": 60,
+    "sourceIndex": 60,
+    "page": 15,
+    "question": "The sound–conducting part of the middle ear - the hammer, anvil and stirrup",
+    "options": [
+      "transmit sound waves directly",
+      "to the eardrum",
+      "the muscle that pulls the eardrum",
+      "the cells of the cortical organ",
+      "the bipolar neurons of the spiral ganglion of the cochlea",
+      "the oval window"
+    ],
+    "answerIndex": 4,
+    "answer": "the bipolar neurons of the spiral ganglion of the cochlea"
+  },
+  {
+    "id": 61,
+    "sourceIndex": 61,
+    "page": 16,
+    "question": "Visual acuity is characterized as:",
+    "options": [
+      "ability to see clearly into the distance",
+      "ability to night vision",
+      "ability to distinguish two points separately with a minimum distance between them",
+      "ability to distinguish colors",
+      "ability to binocular vision"
+    ],
+    "answerIndex": 2,
+    "answer": "ability to distinguish two points separately with a minimum distance between them"
+  },
+  {
+    "id": 62,
+    "sourceIndex": 62,
+    "page": 16,
+    "question": "Pupils dilate when:",
+    "options": [
+      "fear",
+      "deep anesthesia",
+      "pain irritation",
+      "hypoxia",
+      "that's right"
+    ],
+    "answerIndex": 4,
+    "answer": "that's right"
+  },
+  {
+    "id": 63,
+    "sourceIndex": 63,
+    "page": 16,
+    "question": "Pupils constrict when:",
+    "options": [
+      "activation of the parasympathetic nervous system",
+      "with activation of the sympathetic nervous system",
+      "with activation of the metasympathetic nervous system",
+      "relaxation of the ciliary muscle",
+      "accommodative increase in the convexity of the lens"
+    ],
+    "answerIndex": 0,
+    "answer": "activation of the parasympathetic nervous system"
+  },
+  {
+    "id": 64,
+    "sourceIndex": 64,
+    "page": 16,
+    "question": "The bulk of the cones is concentrated in the area of:",
+    "options": [
+      "the macular spot of the retina",
+      "of the blind spot",
+      "on the periphery of the retina",
+      "diffusely scattered over the entire surface of the retina",
+      "conjunctiva"
+    ],
+    "answerIndex": 0,
+    "answer": "the macular spot of the retina"
+  },
+  {
+    "id": 65,
+    "sourceIndex": 65,
+    "page": 16,
+    "question": "In low light conditions:",
+    "options": [
+      "peripheral vision with the participation of sticks is activated",
+      "central vision is activated with the participation of cones",
+      "the blind spot of the retina",
+      "is activated",
+      "both rods and cones are activated, the activity of both rods and cones is suppressed"
+    ],
+    "answerIndex": 0,
+    "answer": "peripheral vision with the participation of sticks is activated"
+  },
+  {
+    "id": 66,
+    "sourceIndex": 66,
+    "page": 17,
+    "question": "The eardrum separates:",
+    "options": [
+      "the outer ear from the tympanic cavity",
+      "the outer ear from the Eustachian tube",
+      "the middle ear from the inner",
+      "middle ear from the oral cavity",
+      "the middle ear from the nasal cavity"
+    ],
+    "answerIndex": 0,
+    "answer": "the outer ear from the tympanic cavity"
+  },
+  {
+    "id": 67,
+    "sourceIndex": 67,
+    "page": 17,
+    "question": "The middle ear is filled with:",
+    "options": [
+      "endolymph",
+      "perilymph",
+      "air",
+      "lymph",
+      "cerebrospinal fluid"
+    ],
+    "answerIndex": 2,
+    "answer": "air"
+  },
+  {
+    "id": 68,
+    "sourceIndex": 68,
+    "page": 17,
+    "question": "Receptor hair cells of the cortical organ are excited directly by:",
+    "options": [
+      "vibrations of the integumentary membrane",
+      "tension of the eardrum,",
+      "contraction of the muscles of the middle ear,",
+      "pressure in the eustachian tube,",
+      "odorant molecules"
+    ],
+    "answerIndex": 0,
+    "answer": "vibrations of the integumentary membrane"
+  },
+  {
+    "id": 69,
+    "sourceIndex": 69,
+    "page": 17,
+    "question": "Pupils of a person with normal vision:",
+    "options": [
+      "narrower in the light than in the dark",
+      "in the dark, narrower than in the light",
+      "when looking at a close object is wider than when looking into the distance",
+      "of different widths with monocular illumination",
+      "of different widths in the left and right eye"
+    ],
+    "answerIndex": 0,
+    "answer": "narrower in the light than in the dark"
+  },
+  {
+    "id": 70,
+    "sourceIndex": 70,
+    "page": 18,
+    "question": "Focusing the image in front of the retina of the eye is designated as:",
+    "options": [
+      "myosis",
+      "mydriasis",
+      "myopia",
+      "hypermetropia",
+      "presbyopia"
+    ],
+    "answerIndex": 2,
+    "answer": "myopia"
+  },
+  {
+    "id": 71,
+    "sourceIndex": 71,
+    "page": 18,
+    "question": "Focusing the image behind the retina of the eye is denoted as:",
+    "options": [
+      "presbyopia",
+      "hypermetropia",
+      "myosis",
+      "mydriasis",
+      "myopia"
+    ],
+    "answerIndex": 1,
+    "answer": "hypermetropia"
+  },
+  {
+    "id": 72,
+    "sourceIndex": 72,
+    "page": 18,
+    "question": "Air conduction is the propagation of sound waves to the auditory receptors through:",
+    "options": [
+      "nasal cavity",
+      "oral cavity",
+      "outer and inner ear",
+      "skull bones",
+      "nasopharyngeal space"
+    ],
+    "answerIndex": 2,
+    "answer": "outer and inner ear"
+  },
+  {
+    "id": 73,
+    "sourceIndex": 73,
+    "page": 19,
+    "question": "Bone conduction is the propagation of sound waves to auditory receptors through:",
+    "options": [
+      "bone tissues of the upper jaw",
+      "bones of the skull",
+      "nasopharyngeal organs",
+      "outer and inner ear",
+      "hard tissues of the teeth"
+    ],
+    "answerIndex": 1,
+    "answer": "bones of the skull"
+  },
+  {
+    "id": 74,
+    "sourceIndex": 74,
+    "page": 19,
+    "question": "Age–related violation of the elasticity of the lens of the eye is:",
+    "options": [
+      "myopia",
+      "hypermetropia",
+      "astigmatism",
+      "presbyopia",
+      "color blindness"
+    ],
+    "answerIndex": 3,
+    "answer": "presbyopia"
+  },
+  {
+    "id": 75,
+    "sourceIndex": 75,
+    "page": 19,
+    "question": "Visual acuity depends on:",
+    "options": [
+      "the refractive properties of the cornea",
+      "the refractive properties of the lens",
+      "the refractive properties of the vitreous body",
+      "the functioning of the cones of the retina",
+      "all right"
+    ],
+    "answerIndex": 4,
+    "answer": "all right"
+  },
+  {
+    "id": 76,
+    "sourceIndex": 76,
+    "page": 19,
+    "question": "Visual sensations are formed in:",
+    "options": [
+      "the postcentral gyrus of the cerebral cortex",
+      "precentral gyrus of the cerebral cortex",
+      "occipital region of the cerebral cortex",
+      "area of the sylvian sulcus",
+      "parietal region of the cerebral cortex"
+    ],
+    "answerIndex": 2,
+    "answer": "occipital region of the cerebral cortex"
+  },
+  {
+    "id": 77,
+    "sourceIndex": 77,
+    "page": 20,
+    "question": "The peripheral part of the sensory system is represented by:",
+    "options": [
+      "receptors of sensitive pseudonipolar neurons",
+      "glial cells",
+      "oligodendrocytes",
+      "interneurons",
+      "Renshaw cells"
+    ],
+    "answerIndex": 0,
+    "answer": "receptors of sensitive pseudonipolar neurons"
+  },
+  {
+    "id": 78,
+    "sourceIndex": 78,
+    "page": 20,
+    "question": "The conductive part of the sensory system includes:",
+    "options": [
+      "the spinothalamic tract",
+      "the spino-reticular tract",
+      "nerve conductors conducting excitation from the cortex to the receptors of the system",
+      "nerve cells connecting the projection and associative fields of the brain",
+      "processes of nerve cells conducting excitations from sensory system receptors to",
+      "the projection area of the cerebral cortex"
+    ],
+    "answerIndex": 4,
+    "answer": "processes of nerve cells conducting excitations from sensory system receptors to"
+  },
+  {
+    "id": 79,
+    "sourceIndex": 79,
+    "page": 20,
+    "question": "The receptors located at the tip of the tongue are most sensitive to:",
+    "options": [
+      "salty",
+      "sweet",
+      "bitter",
+      "sour",
+      "spicy"
+    ],
+    "answerIndex": 1,
+    "answer": "sweet"
+  },
+  {
+    "id": 80,
+    "sourceIndex": 80,
+    "page": 20,
+    "question": "The receptors on the lateral surfaces of the tongue are most sensitive to:",
+    "options": [
+      "salty foods",
+      "bitter foods",
+      "sweet and sour foods",
+      "sour and salty foods",
+      "sweet foods"
+    ],
+    "answerIndex": 3,
+    "answer": "sour and salty foods"
+  },
+  {
+    "id": 81,
+    "sourceIndex": 81,
+    "page": 21,
+    "question": "The receptors of the tongue root are most sensitive to:",
+    "options": [
+      "salty substances",
+      "sweet and sour substances",
+      "bitter substances",
+      "sweet substances",
+      "sour substances"
+    ],
+    "answerIndex": 2,
+    "answer": "bitter substances"
+  },
+  {
+    "id": 82,
+    "sourceIndex": 82,
+    "page": 21,
+    "question": "The threshold of taste sensitivity is understood as:",
+    "options": [
+      "the minimum amount of taste substance that causes sensation",
+      "the minimum time required for the formation of sensation",
+      "the minimum concentration of substance that causes sensation",
+      "the minimum number of receptors required for the formation of sensation",
+      "the minimum number of switching neurons that cause sensation"
+    ],
+    "answerIndex": 2,
+    "answer": "the minimum concentration of substance that causes sensation"
+  },
+  {
+    "id": 83,
+    "sourceIndex": 83,
+    "page": 21,
+    "question": "The shell of the eye with photoreceptors is:",
+    "options": [
+      "conjunctiva",
+      "retina",
+      "sclera",
+      "choroid",
+      "cornea"
+    ],
+    "answerIndex": 1,
+    "answer": "retina"
+  },
+  {
+    "id": 84,
+    "sourceIndex": 84,
+    "page": 21,
+    "question": "The size of the visual fields is estimated using the following methods:",
+    "options": [
+      "algesimetry",
+      "perimetry",
+      "gustometry",
+      "gnathodinamometry",
+      "estesiometry"
+    ],
+    "answerIndex": 1,
+    "answer": "perimetry"
+  },
+  {
+    "id": 85,
+    "sourceIndex": 85,
+    "page": 21,
+    "question": "Functions of the associative cortex of the brain:",
+    "options": [
+      "providing analysis of excitations of certain sensory systems",
+      "providing communication between nerve cells of sensory systems",
+      "ensuring the connection of neurons of projection zones with motor neurons",
+      "providing neurons of projection zones with vegetative centers",
+      "providing functional interconnection between various sensory systems"
+    ],
+    "answerIndex": 4,
+    "answer": "providing functional interconnection between various sensory systems"
+  },
+  {
+    "id": 86,
+    "sourceIndex": 86,
+    "page": 22,
+    "question": "Functional mobility is:",
+    "options": [
+      "increased sensitivity of receptors",
+      "decreased sensitivity of receptors",
+      "stabilization of receptor sensitivity",
+      "presence of divergence and convergence of excitation in the process of their",
+      "propagation along the conductor pathways",
+      "change in the number of functioning receptors"
+    ],
+    "answerIndex": 4,
+    "answer": "propagation along the conductor pathways"
+  },
+  {
+    "id": 87,
+    "sourceIndex": 87,
+    "page": 22,
+    "question": "The receptors of the semicircular channels respond to:",
+    "options": [
+      "rotational movements of the head",
+      "an increase in the volume",
+      "of sound high frequency",
+      "sounds low frequency",
+      "sounds perilymph pressure"
+    ],
+    "answerIndex": 0,
+    "answer": "rotational movements of the head"
+  },
+  {
+    "id": 88,
+    "sourceIndex": 88,
+    "page": 22,
+    "question": "Astigmatism is:",
+    "options": [
+      "focusing of rays from an object on the retina of the eye",
+      "focusing of rays from an object behind the retina of the eye",
+      "focusing of rays from an object in front of the retina of the eye",
+      "inability to focus rays from an object on the retina",
+      "focusing rays from an object on a blind spot"
+    ],
+    "answerIndex": 3,
+    "answer": "inability to focus rays from an object on the retina"
+  },
+  {
+    "id": 89,
+    "sourceIndex": 89,
+    "page": 22,
+    "question": "The vestibular sensory system is closely related to:",
+    "options": [
+      "the reticular formation",
+      "the spinal cord",
+      "the cerebellum",
+      "the red nucleus",
+      "that's right"
+    ],
+    "answerIndex": 4,
+    "answer": "that's right"
+  },
+  {
+    "id": 90,
+    "sourceIndex": 90,
+    "page": 23,
+    "question": "For hair cells of semicircular canals , adequate stimuli are:",
+    "options": [
+      "acceleration or deceleration of rectilinear motion of the body",
+      "acceleration or deceleration of rotational motion in any plane",
+      "acceleration or deceleration of flexor muscle contraction",
+      "acceleration or deceleration of extensor muscle contraction",
+      "increase in the frequency of sound vibrations"
+    ],
+    "answerIndex": 1,
+    "answer": "acceleration or deceleration of rotational motion in any plane"
+  },
+  {
+    "id": 91,
+    "sourceIndex": 91,
+    "page": 23,
+    "question": "Taste sensations are formed at the level of:",
+    "options": [
+      "taste buds",
+      "of the papillae of the tongue",
+      "of the medulla oblongata",
+      "of the thalamus",
+      "somatosensory cortex"
+    ],
+    "answerIndex": 4,
+    "answer": "somatosensory cortex"
+  },
+  {
+    "id": 92,
+    "sourceIndex": 92,
+    "page": 23,
+    "question": "Biconcave lenses are used to correct:",
+    "options": [
+      "myopia (myopia)",
+      "hypermetropia (hyperopia)",
+      "astigmatism",
+      "color blindness",
+      "chicken blindness"
+    ],
+    "answerIndex": 0,
+    "answer": "myopia (myopia)"
+  },
+  {
+    "id": 93,
+    "sourceIndex": 93,
+    "page": 23,
+    "question": "Biconvex lenses are used to correct:",
+    "options": [
+      "myopia (myopia)",
+      "hypermetropia (hyperopia)",
+      "astigmatism",
+      "color blindness",
+      "chicken blindness"
+    ],
+    "answerIndex": 1,
+    "answer": "hypermetropia (hyperopia)"
+  },
+  {
+    "id": 94,
+    "sourceIndex": 94,
+    "page": 24,
+    "question": "The pupil is:",
+    "options": [
+      "a pigmented spot of the retina,",
+      "a depigmented spot of the retina,",
+      "a hole in the iris",
+      "a blind spot",
+      "a yellow spot"
+    ],
+    "answerIndex": 2,
+    "answer": "a hole in the iris"
+  },
+  {
+    "id": 95,
+    "sourceIndex": 95,
+    "page": 24,
+    "question": "The function of transmitting sound waves from the middle ear to the inner ear is performed by the membrane:",
+    "options": [
+      "oval window",
+      "round window",
+      "vestibular",
+      "integumentary",
+      "basic"
+    ],
+    "answerIndex": 0,
+    "answer": "oval window"
+  },
+  {
+    "id": 96,
+    "sourceIndex": 96,
+    "page": 24,
+    "question": "The transmission of sound waves is carried out in the direction from:",
+    "options": [
+      "anvil to hammer",
+      "hammer to stirrup",
+      "stirrup to anvil",
+      "stirrup to hammer",
+      "anvil to stirrup"
+    ],
+    "answerIndex": 4,
+    "answer": "anvil to stirrup"
+  },
+  {
+    "id": 97,
+    "sourceIndex": 97,
+    "page": 24,
+    "question": "When transmitting sound vibrations from the outer ear to the inner ear, the pressure of sound waves gradually:",
+    "options": [
+      "weakens",
+      "increases",
+      "does not change",
+      "compared with atmospheric",
+      "disappears"
+    ],
+    "answerIndex": 1,
+    "answer": "increases"
+  },
+  {
+    "id": 98,
+    "sourceIndex": 98,
+    "page": 25,
+    "question": "The zone of sound vibrations perceived by the human ear is in the range:",
+    "options": [
+      "from 1 to 8 Hz,",
+      "from 8 to 16 Hz,",
+      "from 16 to 20,000 Hz,",
+      "from 18 kHz to 200 kHz,",
+      "from 200 kHz to 1000 kHz"
+    ],
+    "answerIndex": 2,
+    "answer": "from 16 to 20,000 Hz,"
+  }
+]
