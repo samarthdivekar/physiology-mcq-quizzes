@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Physiology MCQ Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="topbar" aria-label="Quiz controls">
+        <div>
+          <p class="eyebrow">Physiology MCQ</p>
+          <h1>Quiz Practice</h1>
+        </div>
+        <div class="stats">
+          <span id="questionCount">Loading...</span>
+          <span id="score">Score 0/0</span>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Filters and actions">
+        <input id="search" type="search" placeholder="Search questions" />
+        <button id="shuffle" type="button">Shuffle</button>
+        <button id="reset" type="button">Reset</button>
+      </section>
+
+      <section class="quiz-panel" aria-live="polite">
+        <div class="question-meta">
+          <span id="position">Question 1</span>
+          <span id="page">Page -</span>
+        </div>
+        <h2 id="questionText">Loading quiz...</h2>
+        <div id="options" class="options"></div>
+        <div id="answerBox" class="answer-box" hidden></div>
+        <div class="nav">
+          <button id="previous" type="button">Previous</button>
+          <button id="next" type="button">Next</button>
+        </div>
+      </section>
+
+      <section class="list-panel">
+        <div class="list-header">
+          <h2>All Questions</h2>
+          <span id="filteredCount"></span>
+        </div>
+        <div id="questionList" class="question-list"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
