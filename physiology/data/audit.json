@@ -1,0 +1,531 @@
+{
+  "sourcePdf": "C:\\Users\\samar\\Downloads\\full physiology 2.pdf",
+  "pages": 271,
+  "extractedLineCount": 10175,
+  "answerMarkerCount": 1401,
+  "notes": [
+    {
+      "type": "removed-heading",
+      "sourceIndex": 1,
+      "page": 1,
+      "text": "PHYSIOLOGY OF BLOOD SYSTEM"
+    },
+    {
+      "type": "merged-block-earlier-question-without-answer",
+      "sourceIndex": 181,
+      "page": 25,
+      "text": "When does the agglutination reaction occur?"
+    },
+    {
+      "type": "recovered-merged-question",
+      "sourceIndex": 181,
+      "page": 25,
+      "text": "When does the agglutination reaction occur?",
+      "note": "Recovered from a merged PDF block. The PDF extraction does not expose a separate answer marker for this question; answer selected from physiology/ABO compatibility."
+    },
+    {
+      "type": "removed-heading",
+      "sourceIndex": 243,
+      "page": 34,
+      "text": "THEME: EXITABLE TISSUE"
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 270,
+      "page": 37,
+      "rawOptionLines": 10,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 271,
+      "page": 38,
+      "rawOptionLines": 7,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 276,
+      "page": 38,
+      "rawOptionLines": 9,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 277,
+      "page": 39,
+      "rawOptionLines": 12,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 278,
+      "page": 39,
+      "rawOptionLines": 10,
+      "finalOptions": 5
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 282,
+      "page": 39,
+      "text": "Decreased excitability during the slow increase of the power stimulation is called - useful time the rheobase"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 283,
+      "page": 39,
+      "text": "Physiological process, characterized by spreading of depolarization of cell membranes without decrement is called - accommodation"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 289,
+      "page": 40,
+      "text": "What is the property of the nerve fiber does not apply to the laws of propagation of excitation the bilateral conduction of excitation the high speed of the excitation"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 293,
+      "page": 41,
+      "text": "The structural and functional unit of muscle fiber is - actin myosin"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 309,
+      "page": 43,
+      "text": "Type A nerve fibers include - receptor endings preganglionic myelin fibers of the autonomic nervous system"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 310,
+      "page": 43,
+      "text": "To type B nerve fibers include - preganglionic myelin fibers of the autonomic nervous system muscle fiber"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 311,
+      "page": 43,
+      "text": "Nerve fibers of type C include - preganglionic myelin fibers of the autonomic nervous system muscle fiber"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 313,
+      "page": 43,
+      "text": "The property of smooth muscles, absent in skeletal, called - excitability conductivity"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 314,
+      "page": 43,
+      "text": "Ions play the main role in the formation of depolarization phase of AP of smooth muscle cells - sodium potessium"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 315,
+      "page": 44,
+      "text": "Muscle contraction caused by a series of super-threshold pulses with a follow-up interval exceeding the duration of a single contraction, called - complete tetanus"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 316,
+      "page": 44,
+      "text": "Muscle contraction caused by a series of super-threshold impulses entering the relaxation phase of the previous response is called - complete tetanus"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 317,
+      "page": 44,
+      "text": "Muscle contraction caused by a series of super-threshold impulses entering the contraction phase of the previous response is called - complete tetanus"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 333,
+      "page": 46,
+      "text": "Motor neuron and muscle fibers innervated by it is called - sensory-motor link neuromuscular link"
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 468,
+      "page": 66,
+      "rawOptionLines": 8,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 469,
+      "page": 66,
+      "rawOptionLines": 8,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 479,
+      "page": 69,
+      "rawOptionLines": 9,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 482,
+      "page": 70,
+      "rawOptionLines": 7,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 483,
+      "page": 70,
+      "rawOptionLines": 8,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 487,
+      "page": 71,
+      "rawOptionLines": 10,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 488,
+      "page": 71,
+      "rawOptionLines": 9,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 490,
+      "page": 72,
+      "rawOptionLines": 7,
+      "finalOptions": 5
+    },
+    {
+      "type": "merged-block-earlier-question-without-answer",
+      "sourceIndex": 499,
+      "page": 75,
+      "text": "The intrafusal fibers of the muscle receptor are innervated:"
+    },
+    {
+      "type": "recovered-merged-question",
+      "sourceIndex": 499,
+      "page": 75,
+      "text": "The intrafusal fibers of the muscle receptor are innervated:",
+      "note": "Recovered from a merged PDF block. The PDF extraction does not expose a separate answer marker for this question; answer selected from the listed physiology options."
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 521,
+      "page": 81,
+      "text": "Motor zones of the cerebral cortex are localized in posterior Central gyrus anterior Central gyrus"
+    },
+    {
+      "type": "merged-block-earlier-question-without-answer",
+      "sourceIndex": 524,
+      "page": 81,
+      "text": "The visual sensory zone of the cerebral cortex is located in:"
+    },
+    {
+      "type": "recovered-merged-question",
+      "sourceIndex": 524,
+      "page": 81,
+      "text": "The visual sensory zone of the cerebral cortex is located in:",
+      "note": "Recovered from a merged PDF block. The PDF extraction does not expose a separate answer marker for this question; answer selected from neurophysiology localization."
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 583,
+      "page": 93,
+      "text": "The atrioventricular node conducts excitation at a rate of 0.8-1 m / s 2-4 m / s"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 634,
+      "page": 102,
+      "text": "Steroid hormones include aldosterone insulin"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 651,
+      "page": 106,
+      "text": "Somatotropic hormone stimulates protein synthesis in cells stimulates protein catabolism"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 679,
+      "page": 114,
+      "text": "The hormone that regulates the tone of blood vessels, as well as reabsorption of water in the kidneys is aldosterone"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 680,
+      "page": 114,
+      "text": "The volume of urine is regulated by pituitary hormone aldosterone somatotropin"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 798,
+      "page": 144,
+      "text": "The Goltz reflex is realized from the receptive zone located in the cavity mouth of hollow veins"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 799,
+      "page": 144,
+      "text": "The Danini-Aschner reflex is realized from the receptive zone located in the cavity mouth of hollow veins"
+    },
+    {
+      "type": "merged-block-earlier-question-without-answer",
+      "sourceIndex": 820,
+      "page": 147,
+      "text": "Veins in the circulatory system play a role:"
+    },
+    {
+      "type": "recovered-merged-question",
+      "sourceIndex": 820,
+      "page": 147,
+      "text": "Veins in the circulatory system play a role:",
+      "note": "Recovered from a merged PDF block. The PDF extraction does not expose a separate answer marker for this question; answer selected from cardiovascular physiology."
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 832,
+      "page": 150,
+      "text": "Anakrote of sphygmogram matches the beginning of phase exile the end of a phase of exile"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 841,
+      "page": 151,
+      "text": "The systolic pressure in the brachial artery of an adult healthy person at rest is 100-109 mm Hg 110-120 mm Hg"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 886,
+      "page": 159,
+      "text": "The difference between systolic and diastolic pressure is systolic pressure diastolic pressure"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 896,
+      "page": 160,
+      "text": "On the electrocardiogram, with an increase in the tone of the vagus nerves, it is noted ECG wave amplitude reduction increasing the duration of the QRS complex"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 912,
+      "page": 164,
+      "text": "The volume of air remaining in the lungs after a quiet exhalation is the capacity of the breath functional residual capacity"
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 927,
+      "page": 168,
+      "rawOptionLines": 7,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 935,
+      "page": 171,
+      "rawOptionLines": 7,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 940,
+      "page": 172,
+      "rawOptionLines": 8,
+      "finalOptions": 5
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 996,
+      "page": 187,
+      "text": "A decrease in the basic exchange rate may be a consequence of hyperfunctions of the neurohypophysis (posterior lobe) hypofunctions of the thyroid gland"
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 1002,
+      "page": 189,
+      "rawOptionLines": 7,
+      "finalOptions": 6
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 1016,
+      "page": 193,
+      "rawOptionLines": 8,
+      "finalOptions": 5
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 1047,
+      "page": 201,
+      "rawOptionLines": 7,
+      "finalOptions": 5
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1205,
+      "page": 229,
+      "text": "The formation of primary urine in the nephron capsule is due to the reabsorption of substances in the tubules tubular secretion"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1206,
+      "page": 230,
+      "text": "What is different in composition of primary urine from blood plasma no different the lack of blood cells and protein molecules"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1208,
+      "page": 230,
+      "text": "Can the hemoglobin molecule pass through the renal filter always pass never pass"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1209,
+      "page": 230,
+      "text": "Reabsorption of chlorine ions is ensured sodium-dependent secondary transport electric gradient"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1210,
+      "page": 230,
+      "text": "Reabsorption of water is ensured osmotic gradient interaction with carriers on cell membrane"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1211,
+      "page": 230,
+      "text": "Mechanism of reabsorption of glucose and amino acids in the kidneys is provided interaction with carriers and sodium-dependent secondary active transport osmotic gradient"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1213,
+      "page": 231,
+      "text": "The formation of primary urine from blood plasma is a function proximal tubules of the nephron distal tubules"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1214,
+      "page": 231,
+      "text": "The reabsorption process is the process of passing a cellular and protein-free part of the plasma from the capillaries of the glomerulus through the barrier into the cavity of the capsule"
+    },
+    {
+      "type": "compacted-wrapped-options",
+      "sourceIndex": 1214,
+      "page": 231,
+      "rawOptionLines": 7,
+      "finalOptions": 6
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1215,
+      "page": 231,
+      "text": "Obligatory reabsorption of water, glucose, amino acids, urea is a function of the capillaries of the glomerulus renal corpuscle collecting ducts of the nephron distal tubules the collective tubes of the nephron"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1216,
+      "page": 231,
+      "text": "Reabsorption of glucose occurs almost entirely in the loop of Henle distal twisted rope"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1217,
+      "page": 231,
+      "text": "The process of secretion is transportation of substances from tubular urine to blood filter in the lumen of the tubules of the blood plasma"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1218,
+      "page": 232,
+      "text": "The formation of the final urine is the result filtration, reabsorption, active transportation filtration, reabsorption"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1220,
+      "page": 232,
+      "text": "Daily diuresis in norm equal 2.5-5 L 150-180 L"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1223,
+      "page": 232,
+      "text": "The value of the hydrostatic blood pressure in the glomerular capillaries is about 50 mm Hg about 40 mm Hg"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1224,
+      "page": 233,
+      "text": "The value of the oncotic pressure of the blood plasma is 50 mm Hg 20 mm Hg"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1225,
+      "page": 233,
+      "text": "A feature of the vascular bed of the nephron of the kidneys is large diameter efferent arterioles short capillaries"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1227,
+      "page": 233,
+      "text": "Obligatory reabsorption of water in kidneys is carried out in the capillaries of the glomerulus the collective tubes"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1228,
+      "page": 233,
+      "text": "Reabsorption of sodium occurs mainly in in the proximal tubule, in ascending part loop of Genle juxtaglomerular apparatus"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1232,
+      "page": 234,
+      "text": "Antidiuretic hormone increases water reabsorption in proximal tubule loop of Henle"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1237,
+      "page": 235,
+      "text": "Reabsorption of sodium and secretion of potassium in the kidneys regulates hormone thyroxine adrenaline"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1240,
+      "page": 235,
+      "text": "Where is the center of osmoregulation in the renal glomeruli in the supraoptic nucleus of the anterior hypothalamus"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1246,
+      "page": 236,
+      "text": "As a diuresis and osmolarity of urine will change at limitation of receipt of water in an organism a large volume of hypotonic urine is excreted"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1248,
+      "page": 237,
+      "text": "The mechanism of action of aldosterone on the kidneys is enhances the excretion of water enhances the reabsorption of potassium"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1249,
+      "page": 237,
+      "text": "Stabilization of acid-base state is provided by secretion in the kidneys sodium and potassium calcium and magnesium"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1250,
+      "page": 237,
+      "text": "If increase osmotic pressure of blood a large volume of hypotonic urine is excreted small volume of hypotonic urine is excreted"
+    },
+    {
+      "type": "question-punctuation-missing",
+      "sourceIndex": 1389,
+      "page": 268,
+      "text": "The gastric phase of pancreatic juice secretion is regulated gastrin secretin"
+    }
+  ],
+  "questionCount": 1405
+}
